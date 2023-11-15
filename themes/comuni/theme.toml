@@ -1,0 +1,7 @@
+name = "Comuni"
+description = "Tema per esperimento comuni"
+
+# If the theme has a single author
+[author]
+    name = "M.casanova"
+    homepage = "https://m-casanova.github.io/comuni"
